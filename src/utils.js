@@ -9,7 +9,7 @@ export const adForRequest = ad => ({
 
 const endpoint =
   process.env.NODE_ENV === "production"
-    ? "http://dashboard.qz.ai/facebook-ads/ads"
+    ? "https://fbpac.qz.ai/facebook-ads/ads"
     : "http://localhost:8080/facebook-ads/ads";
 
 const headers = language =>
