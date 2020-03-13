@@ -15,7 +15,7 @@ export const Stories = () => (
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://tgam.ca/fbpac"
+            href="https://qz.com/?p=1818398"
           >Help us monitor political ads on Facebook &nbsp;→</a>
         </p>
       </li>
