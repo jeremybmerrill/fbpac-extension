@@ -60,6 +60,7 @@ export class Ratings extends React.Component {
   render() {
     return (
       <div id="ratings">
+        <p className='rating-help'>Help our models understand what's political or not. Click "Political" for ads about political issues and "Normal ad" for other ads. Use your best judgment.</p>
         {this.props.ratings.map(rating => (
           <Rating
             key={rating.id}
@@ -100,6 +101,7 @@ export class AdsUnconnected extends React.Component {
   render() {
     return (
       <div id="ads">
+        <p>Help our models understand what's political or not. Using your best judgment, click "Political" for ads about political issues and "Non-political" for other ads.</p>
         {this.props.ads.map(ad => (
           <Rating
             key={ad.id}
