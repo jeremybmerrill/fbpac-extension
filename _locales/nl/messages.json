@@ -1,10 +1,10 @@
 {
   "name": {
-    "message": "Verzameltool voor politieke advertenties op Facebook",
+    "message": "Verzameltool voor politieke advertenties",
     "description": "Extensie naam"
   },
   "short_name": {
-    "message": "Facebook PAC",
+    "message": "Verzameltool voor politieke advertenties",
     "description": "Extensie short naam"
   },
   "description": {

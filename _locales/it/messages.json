@@ -1,10 +1,10 @@
 {
   "name": {
-    "message": "Facebook Political Ad Collector - Italia",
+    "message": "Political Ad Collector - Italia",
     "description": "Extension name"
   },
   "short_name": {
-    "message": "Facebook PAC Italia",
+    "message": "Political Ad Collector - Italia",
     "description": "Extension short name"
   },
   "description": {

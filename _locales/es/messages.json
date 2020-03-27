@@ -1,14 +1,14 @@
 {
   "name": {
-    "message": "Detector de anuncios políticos en Facebook",
+    "message": "Detector de anuncios políticos",
     "description": "Extension name"
   },
   "short_name": {
-    "message": "Facebook PAC",
+    "message": "Detector de anuncios políticos",
     "description": "Extension short name"
   },
   "description": {
-    "message": "Esta extensión detecta anuncios políticos en Facebook.",
+    "message": "Esta extensión detecta anuncios políticos.",
     "description": "Description of the extension"
   },
   "rate_ads": {

@@ -1,10 +1,10 @@
 {
   "name": {
-    "message": "תוסף מודעות פוליטיות ממומנות בפייסבוק",
+    "message": "תוסף מודעות פוליטיות ממומנות",
     "description": "Extension name"
   },
   "short_name": {
-    "message": "פייסבוק PAC",
+    "message": "תוסף מודעות פוליטיות ממומנות",
     "description": "Extension short name"
   },
   "description": {
