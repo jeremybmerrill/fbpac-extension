@@ -3,7 +3,7 @@
   "name": "__MSG_name__",
   "short_name": "__MSG_short_name__",
   "description": "__MSG_description__",
-  "version": "1.9.5",
+  "version": "1.10.0",
   "default_locale": "en",
   "permissions": [
     "https://fbads.theglobeandmail.com/facebook-ads/*",
@@ -25,7 +25,7 @@
   "icons": {
     "48": "assets/icon48.png",
     "96": "assets/icon128.png",
-    "64": "assets/icon64.png",
+    "64": "assets/icon64.png"
   },
   "content_scripts": [
     {
